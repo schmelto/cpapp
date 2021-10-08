@@ -1,6 +1,7 @@
 # Welcome
 
 ```shell
+cds watch
 http://localhost:4004/
 ```
 
